@@ -5,9 +5,9 @@ Note: The latest Chromedriver found supports Chrome version 114, if you recently
       run, 
       You can replace the chrome driver with the edge driver to run the test successfully 
 
-Automation Task:
 
-challenge Requirements: 
+
+ Requirements: 
 
    Go to this URL ( https://codenboxautomationlab.com/registration-form/ ) to register a new user.
  
