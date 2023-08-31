@@ -19,7 +19,7 @@ public class Registration_steps {
     @Given("Open chrome and navigate to codenboxautomationlab.com")
     public void open_the_Chrome_and_launch_the_application() {
         System.setProperty("webdriver.chrome.driver", "resources/chromedriver.exe");
-        driver = new ChromeDriver();
+        driver = new EdgeDriver();
         driver.manage().window().maximize();
         driver.get("https://codenboxautomationlab.com/registration-form/");
 
