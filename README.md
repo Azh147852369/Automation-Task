@@ -1,9 +1,9 @@
 # Automation-Task
 Selenium Automation Task
 
-Note: The latest Chromedriver found supports Chrome version 114, if you recently updated Chrome to 116 the test will not 
+Note: Initially done with Chrome but The latest Chromedriver found supports Chrome version 114, if you recently updated Chrome to 116 the test will not 
       run, 
-      You can replace the chrome driver with the edge driver to run the test successfully 
+      Now Chrome drivier is replaced with Edge driver to complete the test succefully  
 
 
 
